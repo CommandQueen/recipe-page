@@ -1,0 +1,27 @@
+.top{
+    letter-spacing: 4px;
+    padding:0;
+    display: block;
+
+}
+header{
+    display:bottom-left;
+    padding:large-opacity;
+}
+
+.bar-item button{
+    scroll-padding-top: 4px;
+}
+.image{
+    width: 20%;
+    border-radius: 50% 50% 50% 50%;
+
+}
+
+.nav-bar{
+    display: flexbox;
+}
+.right{
+    color:black;
+    background-color: whitesmoke;
+    }
